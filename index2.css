@@ -1,0 +1,183 @@
+        /* .dis1 {
+
+        display: block;
+        text-align: center;
+        width: 60%;
+        display: block;
+
+        }
+        .dis11 {
+        display: block;
+
+        text-align: center;
+        width: 60%;
+
+        }
+        .dis111 {
+        display: block;
+        text-align: center;
+        width: 60%;
+        }
+
+
+        .dis1,
+        .dis11,
+        .dis111 {
+
+        background-color: blueviolet;
+        padding: 14px;
+        margin: 12px auto;
+
+
+        }
+
+
+
+        .s-1{
+        background-color: #EEE;
+        outline: black solid  5px ;
+        border-style: dashed;
+        border-color: red green blue yellow;
+        padding: 30px;
+        margin: 20px;
+        display: inline-block;
+        }
+
+        .s-2 {
+        background-color: #EEE;
+        outline: black solid  5px ;
+        border-style: dashed;
+        border-color: red green blue yellow;
+        padding: 30px;
+        margin: 20px;
+        display: inline-block;
+        }
+
+        .s-3 {
+        background-color: #EEE;
+        outline: black solid  5px ;
+        border-style: dashed;
+        border-color: red green blue yellow;
+        padding: 30px;
+        margin: 20px;
+        display: inline-block;
+        }
+
+        .no-1 {
+
+        background-color: #EEE;
+        width: 400px;
+        padding: 20ox; 
+        margin: 20px auto;
+        border-left: 3px solid rgb(197, 43, 120);
+        display: block;
+        }
+
+        .no-2 {
+
+        background-color: #EEE;
+        width: 400px;
+        padding: 20ox; 
+        margin: 20px auto;
+        border-left: 6px solid rgb(43, 153, 197);
+        display: block;
+        visibility: hidden;
+        }
+
+        .no-3 {
+
+        background-color: #EEE;
+        width: 400px;
+        padding: 20ox; 
+        margin: 20px auto;
+        border-left: 6px solid rgb(197, 43, 120);
+        display: block;
+        }
+
+
+        div {
+        background-color: red;
+        max-width: 400px;
+        padding: 10px;
+        /* display: inline-block; 
+        
+        width: fit-content;
+        }
+
+        */
+
+    
+    
+
+
+
+
+    /* .child .title {
+    background-color: red;
+
+    }
+    */
+
+/* 
+    div .child .title {
+
+    background-color: red;
+    display: inline-block;
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+    span .title, .child {
+        display: inline-block;
+
+
+
+        background-color: blue;
+    }
+
+
+
+
+
+
+
+    .title ,.parent p  {
+        display: inline-block;
+
+        background-color: green;
+    }
+ */
+
+
+    div {
+display: block;
+width: fit-content;
+padding: 15px;
+margin: 10px;
+max-width: 300px;
+max-height: 30px;
+overflow: hidden;
+text-transform:lowercase ;
+line-height: 1.7px;
+/* background-color: rgb(194, 25, 123); */
+    }
+
+    .ah {
+background-color: beige;
+text-transform: uppercase;
+text-shadow: 2 5 rebeccapurple;
+
+
+
+    }
